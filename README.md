@@ -1,6 +1,6 @@
 # 3GPI（Raspberry Pi対応3G通信モジュール）
 
-![3GPI on Raspberry Pi Model B+](http://www.mechatrax.com/wp-content/uploads/2014/10/3GPIonModelBplus-320x208.jpg)  
+![3GPI on Raspberry Pi Model B+](image/3GPIonModelBplus-320x208.jpg)  
 
 本製品はRaspberry Piにスタックして使用するUSB接続の3Gデータ通信基板です。  
 
