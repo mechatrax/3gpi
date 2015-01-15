@@ -1,8 +1,4 @@
-# 3GPI（Raspberry Pi対応3G通信モジュール）
-
-![3GPI on Raspberry Pi Model B+](image/3GPIonModelBplus-320x208.jpg)  
-
-ここでは3GPIに関する技術資料等を公開しています。
+# ここでは3GPIに関する技術資料等を公開しています。
 
 ## 詳細  
 ハードウェアおよびソフトウェアの詳細についてはリンク先をご参照ください。  
