@@ -28,6 +28,7 @@
  * [マニュアル](manual)
  * [3gpi-utils](../../../3gpi-utils)
  * [3gpi-network-manager](../../../3gpi-network-manager)
+ * [3gpi-archive-keyring](../../../3gpi-archive-keyring)
 
 ## 参考資料  
  + Raspberry Pi ドキュメント  
