@@ -42,15 +42,15 @@
 
 ## イメージ  
   OS のイメージファイルは下記のリンク先からダウンロードできます。  
-  http://mechatrax.com/data/3gpi/  
+  https://mechatrax.com/data/3gpi/  
 
   詳細はリンク先のリリースノートをご覧ください。  
   [リリースノート](release)  
 
 ## 参考資料  
  + Raspberry Pi ドキュメント  
-   http://www.raspberrypi.org/documentation/  
+   https://www.raspberrypi.org/documentation/  
  + Raspberry Pi トラブルシューティング  
-   http://elinux.org/R-Pi_Troubleshooting  
+   https://elinux.org/R-Pi_Troubleshooting  
  + Raspbian FAQ  
-   http://raspbian.org/RaspbianFAQ  
+   https://raspbian.org/RaspbianFAQ  
