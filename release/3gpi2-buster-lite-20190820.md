@@ -1,4 +1,4 @@
-# 3gpi2-buster-lite-20190808
+# 3gpi2-buster-lite-20190820
 Raspbian Buster Lite July 2019 を元に変更を加えています。
 
 ## イメージファイル  
